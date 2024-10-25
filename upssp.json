@@ -1,0 +1,14 @@
+{
+  ourProducts: [
+    {
+      code: "PHOTO_MAKER",
+      title: "Photo Maker",
+      href: "https://dpg.vercel.app/",
+    },
+    {
+      code: "QUICK_LOGO",
+      title: "https://quicklogo.vercel.app/",
+      href: "/privacy-policy",
+    },
+  ],
+}
