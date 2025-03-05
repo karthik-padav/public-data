@@ -1,8 +1,8 @@
 {
   "ourProducts": [
     {
-      "code": "PHOTO_MAKER",
-      "title": "Photo Maker",
+      "code": "PROFILE_PICTURE_MAKER",
+      "title": "Profile Picture Maker",
       "href": "https://dpg.vercel.app/"
     },
     {
