@@ -1,14 +1,30 @@
 {
   "ourProducts": [
     {
-      "code": "PROFILE_PICTURE_MAKER",
-      "title": "Profile Picture Maker",
-      "href": "https://www.imageflexstudio.com/"
-    },
-    {
-      "code": "QUICK_LOGO",
-      "title": "Quick Logo",
-      "href": "https://quicklogo.vercel.app/"
+      "code": "IMAGE_FLEX_STUDIO",
+      "title": "Image FLex Studio",
+      "href": "https://www.imageflexstudio.com",
+      "subDir": [
+        {
+          "code": "PROFILE_PICTURE_MAKER",
+          "title": "Profile Picture Maker",
+          "href": "/profile-picture-maker",
+          "description": "AI-Powered Profile Picture Maker"
+        },
+        {
+          "code": "TEXT-BEHIND-IMAGE",
+          "title": "Text Behind Image",
+          "href": "/text-behind-image",
+          "description": "Effortless Text Behind Image Design With AI"
+        },
+        {
+          "code": "QUICK-LOGO",
+          "title": "Quick Logo",
+          "href": "https://quicklogo.vercel.app/",
+          "external": true,
+          "description": "Create Stunning Logo In Seconds"
+        }
+      ]
     }
   ]
 }
