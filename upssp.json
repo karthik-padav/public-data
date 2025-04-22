@@ -12,13 +12,13 @@
           "description": "AI-Powered Profile Picture Maker"
         },
         {
-          "code": "TEXT-BEHIND-IMAGE",
+          "code": "TEXT_BEHIND_IMAGE",
           "title": "Text Behind Image",
           "href": "/text-behind-image",
           "description": "Effortless Text Behind Image Design With AI"
         },
         {
-          "code": "QUICK-LOGO",
+          "code": "QUICK_LOGO",
           "title": "Quick Logo",
           "href": "https://quicklogo.imageflexstudio.com",
           "external": true,
