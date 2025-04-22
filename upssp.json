@@ -4,7 +4,7 @@
       "code": "IMAGE_FLEX_STUDIO",
       "title": "Image Flex Studio",
       "href": "https://www.imageflexstudio.com",
-      "subDir": [
+      "tools": [
         {
           "code": "PROFILE_PICTURE_MAKER",
           "title": "Profile Picture Maker",
