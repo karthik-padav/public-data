@@ -30,6 +30,12 @@
           "description": "The fastest way to convert JPG to PDF and other image formats like PNG, WEBP into high-quality PDF files without losing quality."
         },
         {
+          "code": "IMAGE-TO-WEBP",
+          "title": "Image To WEBP",
+          "href": "/image-to-webp",
+          "description": "Looking for a quick way to convert PNG to WebP or JPG to WebP without compromising image quality? Our free Image to WebP Converter lets you effortlessly transform your PNG, JPG, JPEG, and other image formats into highly optimized WebP files. Whether you're a developer, designer, blogger, or website owner, converting images to WebP format helps reduce file size, improve loading speed, and boost SEO performance – all without sacrificing visual quality. Simply upload your image, click 'Convert,' and download your WebP file instantly."
+        },
+        {
           "code": "QUICK_LOGO",
           "title": "Quick Logo",
           "href": "https://www.quicklogo.imageflexstudio.com",
